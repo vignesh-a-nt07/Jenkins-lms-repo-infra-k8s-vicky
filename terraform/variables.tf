@@ -7,7 +7,7 @@ variable "project_name" {
 }
 
 variable "kubernetes_version" {
-  default = "1.34"
+  default = "1.32"
 }
 
 variable "node_instance_type" {
